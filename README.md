@@ -11,7 +11,7 @@ saleh
 
 ```python
 
-print (print('Hello World - \U0001f602\n') for i in range(9999))
+print [('Hello World - \U0001f602\n') for i in range(9999)]
 ```
 _____________________________
 
