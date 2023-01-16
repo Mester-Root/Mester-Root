@@ -1,19 +1,3 @@
-# the saleh a programmer * ...
-______________________________
-
-# im :
-saleh
-
-
-*now is not unknown for ... =/*
-
-# me [fun]:
-
-```python
-
-print [('Hello World - \U0001f602\n') for i in range(9999)]
-```
-_____________________________
 
 # info me and my id :
 
